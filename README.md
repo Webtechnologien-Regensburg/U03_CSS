@@ -65,10 +65,6 @@ _Fonts_:
 
 Verwenden Sie andere Schriftarten, um Ihre Seite ansprechend zu gestalten[^3][^4].
 
-_Shadows_:
-
-Hier lernen Sie Schatteneffekte kennen[^5].
-
 _Intro_:
 
 Hier finden Sie eine kleine Einführung in CSS[^6].
@@ -93,5 +89,4 @@ Beispiel: **Übung_WT_SS20_3_Max_Mustermann.zip**
 [^2]: https://www.w3schools.com/css/css_navbar.asp
 [^3]: https://www.w3schools.com/css/css_font.asp
 [^4]: https://www.w3schools.com/cssref/css_websafe_fonts.asp
-[^5]: https://www.w3schools.com/css/css3_shadows_box.asp
 [^6]: https://www.w3schools.com/css/css_intro.asp
