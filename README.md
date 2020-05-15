@@ -43,7 +43,13 @@ Integrieren Sie CSS in Ihre HTML-Dokumente, indem Sie eine externe CSS-Datei gen
 
   
 
-Unter https://homepages.uni-regensburg.de/~kom13409/WTSS2020/Home.html finden Sie eine kleine HTML Seite, an der Sie sich orientieren können. Sie werden am Mittwoch in der Vorlesung die Grundlagen von CSS kennenlernen. Zusätzlich dazu, sollen Ihnen die nachfolgenden Tutorials dabei helfen, die Seite zu strukturieren und zu designen:
+Sie können sich am folgenden Screenshot orientieren.
+
+![](home.png){ height=8cm }
+
+
+
+ Sie werden am Mittwoch in der Vorlesung die Grundlagen von CSS kennenlernen. Zusätzlich dazu, sollen Ihnen die nachfolgenden Tutorials dabei helfen, die Seite zu strukturieren und zu designen:
 
 
 
