@@ -1,5 +1,5 @@
 ---
-title: HyperText Markup Language (HTML)
+title: Cascading Style Sheets (CSS)
 author: Martin Kocur
 documentclass: scrartcl
 classoption:
@@ -29,7 +29,7 @@ Machen Sie das Tutorial von _Mozilla Developer Guides_ unter https://developer.m
 
 ## Aufgabe 2: Erstellen einer einfach HTML-Seite mit CSS
 
-In dieser Aufgabe sollen Sie eine einfache HTML-Seite mit CSS erstellen, die aus drei HTML-Dokumenten besteht. Arbeiten Sie an Ihrer HTML-Seite aus Übungsblatt 2 weiter. Falls Sie Übungsblatt 1 noch nicht bearbeitet haben, dann können Sie das nun nachholen :) 
+In dieser Aufgabe sollen Sie eine einfache HTML-Seite mit CSS erstellen, die aus drei HTML-Dokumenten besteht. Arbeiten Sie an Ihrer HTML-Seite aus Übungsblatt 2 weiter. Falls Sie Übungsblatt 2 noch nicht bearbeitet haben, dann können Sie das nun nachholen :) 
 
 Integrieren Sie CSS in Ihre HTML-Dokumente, indem Sie eine externe CSS-Datei generieren und diese in den HTML-Dokumenten referenzieren. Entwickeln Sie Ihre Seite weiter, indem Sie:
 
@@ -75,7 +75,7 @@ Hier finden Sie eine kleine Einführung in CSS[^6].
 
 Laden Sie Ihre Antworten bis spätestens 25.5.2020 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
 
-- Aufgabe 2: Das gesamte HTML-Projekt
+- Aufgabe 2: Das gesamte Projekt (HTML,CSS)
 
 Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS20“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
 
