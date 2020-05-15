@@ -68,7 +68,7 @@ Hier finden Sie eine kleine Einführung in CSS[^6].
 
 Sie können sich am folgenden Screenshot orientieren.
 
-![Screenshot](HomeScreen.PNG){ height=10cm }
+![Screenshot](HomeScreen.PNG){ height=12cm }
 
 
 
