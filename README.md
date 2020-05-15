@@ -41,11 +41,6 @@ Integrieren Sie CSS in Ihre HTML-Dokumente, indem Sie eine externe CSS-Datei gen
 
 - Sie eine kleine Blidergalerie erstellen, in der drei Bilder untereinander dargestellt werden.
 
-  
-
-Sie können sich am folgenden Screenshot orientieren.
-
-![Screenshot](HomeScreen.PNG){ height=8cm }
 
 
 
@@ -68,6 +63,12 @@ Verwenden Sie andere Schriftarten, um Ihre Seite ansprechend zu gestalten[^3][^4
 _Intro_:
 
 Hier finden Sie eine kleine Einführung in CSS[^6].
+
+
+
+Sie können sich am folgenden Screenshot orientieren.
+
+![Screenshot](HomeScreen.PNG){ height=10cm }
 
 
 
