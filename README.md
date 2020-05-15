@@ -25,7 +25,7 @@ header-includes: |
 
 ## Aufgabe 1: CSS-Grundlagen Mozilla Developer Guides
 
-Machen Sie das Tutorial von _Mozilla Developer Guides_ unter https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started. Nutzen Sie den auf der Webseite integrierten interaktiven Editor, um die Grundlagen der Verwendung von CSS kennenzulernen.
+Absolvieren Sie das Tutorial von _Mozilla Developer Guides_ unter https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started. Nutzen Sie den auf der Webseite integrierten interaktiven Editor, um die praktischen Übungen zu machen und die Grundlagen der Verwendung von CSS kennenzulernen.
 
 ## Aufgabe 2: Erstellen einer einfach HTML-Seite mit CSS
 
