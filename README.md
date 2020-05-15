@@ -45,7 +45,7 @@ Integrieren Sie CSS in Ihre HTML-Dokumente, indem Sie eine externe CSS-Datei gen
 
 Sie können sich am folgenden Screenshot orientieren.
 
-![Screenshot](HomeScreen.png){ height=8cm }
+![Screenshot](HomeScreen.PNG){ height=8cm }
 
 
 
