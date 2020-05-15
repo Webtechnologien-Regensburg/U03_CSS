@@ -39,34 +39,44 @@ Integrieren Sie CSS in Ihre HTML-Dokumente, indem Sie eine externe CSS-Datei gen
 
 - Sie Ihren Text mit Hilfe von z.B. Schriftarten, Schriftgrößen und Zeilenabständen formatieren.
 
-- Sie eine kleine Blidergalerie erstellen, in der drei Bilder untereinander dargestellt werden.
+- Sie eine kleine Bildergalerie erstellen, in der drei Bilder untereinander dargestellt werden.
 
 
 
 
- Sie werden am Mittwoch in der Vorlesung die Grundlagen von CSS kennenlernen. Zusätzlich dazu, sollen Ihnen die nachfolgenden Tutorials dabei helfen, die Seite zu strukturieren und zu designen:
+ Sie werden am Mittwoch in der Vorlesung die Grundlagen von CSS kennenlernen. Zusätzlich dazu, sollen Ihnen die nachfolgenden Tutorials dabei helfen, die Seite zu strukturieren und zu designen:\
 
 
 
 _Seitenstrukturierung_:
 
-Strukturieren Sie die Seite gemäß den Empfehlungen[^1] .
+Strukturieren Sie die Seite gemäß den Empfehlungen[^1] .\
+
+
 
 _Navigationsleiste_:
 
-Verwenden Sie eine Navigationsleiste, um die Navigation zwischen den HTML-Dokumenten zu steuern[^2].
+Verwenden Sie eine Navigationsleiste, um die Navigation zwischen den HTML-Dokumenten zu steuern[^2].\
+
+
 
 _Fonts_:
 
-Verwenden Sie andere Schriftarten, um Ihre Seite ansprechend zu gestalten[^3][^4].
+Verwenden Sie andere Schriftarten, um Ihre Seite ansprechend zu gestalten[^3] [^4].\
+
+
 
 _Intro_:
 
-Hier finden Sie eine kleine Einführung in CSS[^6].
+Eine kleine Einführung in CSS[^6].\
 
 
 
-Sie können sich am folgenden Screenshot orientieren:
+
+
+Sie können sich am folgenden Screenshot orientieren:\
+
+
 
 ![Screenshot einer einfach HTML-Seite mit einem Header, einer Navigationsleiste und einem Hauptteil](HomeScreen.PNG){ height=12cm }
 
