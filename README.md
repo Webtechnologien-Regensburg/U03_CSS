@@ -66,9 +66,9 @@ Hier finden Sie eine kleine Einführung in CSS[^6].
 
 
 
-Sie können sich am folgenden Screenshot orientieren.
+Sie können sich am folgenden Screenshot orientieren:
 
-![Screenshot](HomeScreen.PNG){ height=12cm }
+![Screenshot einer einfach HTML-Seite mit einem Header, einer Navigationsleiste und einem Hauptteil](HomeScreen.PNG){ height=12cm }
 
 
 
