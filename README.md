@@ -27,7 +27,7 @@ header-includes: |
 
 Absolvieren Sie das Tutorial von _Mozilla Developer Guides_ unter https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started. Nutzen Sie den auf der Webseite integrierten interaktiven Editor, um die praktischen Übungen zu machen und die Grundlagen der Verwendung von CSS kennenzulernen.
 
-## Aufgabe 2: Erstellen einer einfach HTML-Seite mit CSS
+## Aufgabe 2: Erstellen einer einfachen HTML-Seite mit CSS
 
 In dieser Aufgabe sollen Sie eine einfache HTML-Seite mit CSS erstellen, die aus drei HTML-Dokumenten besteht. Arbeiten Sie an Ihrer HTML-Seite aus Übungsblatt 2 weiter. Falls Sie Übungsblatt 2 noch nicht bearbeitet haben, dann können Sie das nun nachholen :) 
 
