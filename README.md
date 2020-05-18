@@ -78,7 +78,7 @@ Sie können sich am folgenden Screenshot orientieren:\
 
 
 
-![Screenshot einer einfach HTML-Seite mit einem Header, einer Navigationsleiste und einem Hauptteil](HomeScreen.PNG){ height=12cm }
+![Screenshot einer einfachen HTML-Seite mit einem Header, einer Navigationsleiste und einem Hauptteil](HomeScreen.PNG){ height=12cm }
 
 
 
