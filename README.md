@@ -1,6 +1,6 @@
 ---
 title: Cascading Style Sheets (CSS)
-author: Martin Kocur
+author: Jakob Fehle
 documentclass: scrartcl
 classoption:
   - a4paper
@@ -86,15 +86,15 @@ Sie können sich am folgenden Screenshot orientieren:\
 
 *Abgabekriterien:*
 
-Laden Sie Ihre Antworten bis spätestens 25.5.2020 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
+Laden Sie Ihre Antworten bis spätestens 06.05.2021 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
 
 - Aufgabe 2: Das gesamte Projekt (HTML,CSS)
 
-Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS20“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
+Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS21“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
 
  
 
-Beispiel: **Übung_WT_SS20_3_Max_Mustermann.zip**
+Beispiel: **Übung_WT_SS21_3_Max_Mustermann.zip**
 
 [^1]: https://wiki.selfhtml.org/wiki/HTML/Tutorials/HTML5/Seitenstrukturierung
 [^2]: https://www.w3schools.com/css/css_navbar.asp
