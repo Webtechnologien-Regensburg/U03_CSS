@@ -94,7 +94,7 @@ Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS22“, der Nr. des
 
  
 
-Beispiel: **Übung_WT_SS21_3_Max_Mustermann.zip**
+Beispiel: **Übung_WT_SS22_3_Max_Mustermann.zip**
 
 [^1]: https://wiki.selfhtml.org/wiki/HTML/Tutorials/HTML5/Seitenstrukturierung
 [^2]: https://www.w3schools.com/css/css_navbar.asp
