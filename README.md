@@ -44,7 +44,7 @@ Integrieren Sie CSS in Ihre HTML-Dokumente, indem Sie eine externe CSS-Datei gen
 
 
 
-Zusätzlich zum im GRIPS-Kurs verlinkten CSS Cheat Sheet, sollen Ihnen die nachfolgenden Tutorials dabei helfen, die Seite zu strukturieren und zu designen:\
+Zusätzlich zum im GRIPS-Kurs verlinkten [CSS Cheat Sheet](https://elearning.uni-regensburg.de/mod/resource/view.php?id=2158449), sollen Ihnen die nachfolgenden Tutorials dabei helfen, die Seite zu strukturieren und zu designen:\
 
 
 
