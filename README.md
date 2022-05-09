@@ -1,6 +1,6 @@
 ---
 title: Cascading Style Sheets (CSS)
-author: Jakob Fehle
+author: Martin Kocur
 documentclass: scrartcl
 classoption:
   - a4paper
@@ -44,7 +44,7 @@ Integrieren Sie CSS in Ihre HTML-Dokumente, indem Sie eine externe CSS-Datei gen
 
 
 
- Sie werden am Mittwoch in der Vorlesung die Grundlagen von CSS kennenlernen. Zusätzlich dazu, sollen Ihnen die nachfolgenden Tutorials dabei helfen, die Seite zu strukturieren und zu designen:\
+Zusätzlich zum im GRIPS-Kurs verlinkten CSS Cheat Sheet, sollen Ihnen die nachfolgenden Tutorials dabei helfen, die Seite zu strukturieren und zu designen:\
 
 
 
@@ -86,11 +86,11 @@ Sie können sich am folgenden Screenshot orientieren:\
 
 *Abgabekriterien:*
 
-Laden Sie Ihre Antworten bis spätestens 06.05.2021 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
+Laden Sie Ihre Antworten bis spätestens 16.05.2021 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
 
-- Aufgabe 2: Das gesamte Projekt (HTML,CSS)
+- Aufgabe 2: Das gesamte Projekt (HTML, CSS)
 
-Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS21“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
+Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS22“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
 
  
 
